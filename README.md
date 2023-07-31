@@ -169,4 +169,4 @@ I would like to express my gratitude to the following individuals and organizati
 
 This project is [MIT](https://github.com/0sugo/recipe-app/blob/dev/LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
